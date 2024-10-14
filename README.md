@@ -1,6 +1,4 @@
 # UFC-Database
-
-# UFC-Database
 ## Team Name: 
   We're Using Chat
 ## Team Members:
